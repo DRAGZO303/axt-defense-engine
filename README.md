@@ -7,10 +7,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+## 🚀 Project Highlights
+
+- Built a working SIEM system simulating real SOC operations  
+- Implemented detection for brute force and reverse shell attacks  
+- Designed alert correlation for multi-stage attack detection  
+- Integrated MITRE ATT&CK mapping for threat classification  
+
 
 ## 📌 Overview
 
-AXT Defense Engine is a **custom-built SIEM (Security Information and Event Management) platform** designed to simulate real-world Security Operations Center (SOC) workflows.
+AXT Defense Engine is a **custom-built SIEM (Security Information and Event Management) platform** designed to replicate real-world Security Operations Center (SOC) workflows.
 
 Inspired by enterprise SIEM solutions like **Splunk and IBM QRadar**, this project focuses on:
 
@@ -54,6 +61,7 @@ Inspired by enterprise SIEM solutions like **Splunk and IBM QRadar**, this proje
 ---
 
 ## 🏗️ Architecture
+
 
 Log Sources (Linux / Network)
 ↓
@@ -112,8 +120,10 @@ Cybersecurity Analyst | SOC | VAPT
 - Recognized by NCIIPC for vulnerability disclosure  
 
 🔗 LinkedIn: https://www.linkedin.com/in/mohdamir32/
+🔗 **GitHub Repository:** https://github.com/DRAGZO303/Axt-Defense-Engine
 
 ---
 
 ## ⭐ If you found this useful, consider giving it a star!
 
+![GitHub stars](https://img.shields.io/github/stars/DRAGZO303/Axt-Defense-Engine?style=for-the-badge)
