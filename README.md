@@ -78,6 +78,8 @@ Incident Correlation
 Dashboard & Analytics (React)
 ```
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Backend:** Python, FastAPI  
