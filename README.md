@@ -63,8 +63,6 @@ Inspired by enterprise SIEM solutions like **Splunk and IBM QRadar**, this proje
 ---
 
 ## 🏗️ Architecture
-
-
 Log Sources (Linux / Network)
 ↓
 Log Collection & Normalization
