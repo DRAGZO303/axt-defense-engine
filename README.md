@@ -35,7 +35,7 @@ Inspired by enterprise SIEM solutions like **Splunk and IBM QRadar**, this proje
 - Built a working SIEM system replicating real SOC operations  
 - Implemented detection for **SSH brute force and reverse shell attacks**  
 - Designed alert correlation for **multi-stage attack detection**  
-- Integrated **MITRE ATT&CK mapping** for threat classification    
+- Integrated **MITRE ATT&CK mapping** for threat classification     
 
 ---
 
