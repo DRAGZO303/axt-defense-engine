@@ -21,7 +21,15 @@ Inspired by enterprise SIEM solutions like **Splunk and IBM QRadar**, this proje
 
 ---
 
-## 🚀 Project Highlights
+## 🧠 What This Project Demonstrates
+
+- Understanding of SOC workflows  
+- Ability to detect and analyze security events  
+- Experience with log analysis and correlation  
+- Practical implementation of MITRE ATT&CK
+-
+-
+  ## 🚀 Project Highlights
 
 - Built a working SIEM system replicating real SOC operations  
 - Implemented detection for **SSH brute force and reverse shell attacks**  
