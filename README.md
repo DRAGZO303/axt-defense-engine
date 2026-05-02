@@ -128,7 +128,6 @@ Cybersecurity Analyst | SOC | VAPT
 
 - CEH (EC-Council)  
 - CPT | CICSA | Certified RedTeam Instructor  
-- Recognized by NCIIPC for vulnerability disclosure  
 
 🔗 LinkedIn: https://www.linkedin.com/in/mohdamir32/
 
